@@ -1,0 +1,49 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+ 
+.bg-primary
+
+{background-image: url(darkseas%20copy4.png) !important;
+background-size: cover;
+    background-position: center;
+background-repeat: no-repeat;}
+
+#nav  
+{font-family: inherit;}
+
+#page-top
+{ 
+  
+    font-family: 'Arapey';font-size: 22px;
+    background-color: #dbd2ca;
+}
+
+.carousel-item {
+    text-align: center;
+}
+.carousel-inner img {
+    display: inline-block !important;
+}
+
+.bg-grey {
+    background-color: #e8e6e6;
+
+}
+
+.btn {
+    text-align: center;
+}
+
+.dropdown
+{
+    padding: inherit;
+}
+
+.fitguide {
+    text-align: center;
+}
+
+h1, h2
+{
+    text-align: center;
+    font-size: 35px;
+}
